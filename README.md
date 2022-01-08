@@ -5,7 +5,8 @@
 This github repository contains the commented files of a 2D Endless Runner videogame created during the winter's semester for the course of "Entertainment Software Technologies And Virtual Worlds" of [Ionian University](https://ionio.gr/)
 
 ### Game Scripts 
-[Here]()
+The scripts of our game already commented.
+[Here](https://github.com/konstantinadeliveri/2D-Endless-Runner/tree/main/Scripts)
 
 ### Game Executable
-[Here]()
+Download and check our game [here]()
