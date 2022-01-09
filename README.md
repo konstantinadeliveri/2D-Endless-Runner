@@ -9,7 +9,7 @@ The scripts of our game already commented.
 [Here](https://github.com/konstantinadeliveri/2D-Endless-Runner/tree/main/Scripts)
 
 ### Game Executable
-Download and check our game [here](https://drive.google.com/drive/folders/1ctAvw2wMwRMTc9pCg-D_P9aggZmPLEmp?usp=sharing).
+Download and check our game executable [here](https://drive.google.com/drive/folders/1ctAvw2wMwRMTc9pCg-D_P9aggZmPLEmp?usp=sharing).
 
 ### Video
 Check our video about our game [here](https://www.youtube.com/watch?v=m-ky4HZeeeg).
