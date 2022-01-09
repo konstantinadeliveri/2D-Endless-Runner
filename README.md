@@ -10,3 +10,6 @@ The scripts of our game already commented.
 
 ### Game Executable
 Download and check our game [here](https://drive.google.com/drive/folders/1ctAvw2wMwRMTc9pCg-D_P9aggZmPLEmp?usp=sharing).
+
+### Video
+Check our video about our game [here](https://www.youtube.com/watch?v=m-ky4HZeeeg).
