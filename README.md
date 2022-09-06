@@ -30,4 +30,4 @@ A 2.5D Endless Runner Videogame written in **C#** and created with [**Unity**](h
 Commented scripts of the game. [Here](./2D_endless_runner_files/Assets/Scripts)
 
 ### Game Executable
-The standalone file of the game. [Here](./2D_endless_runner_files/2d_endless_runner_standalone)
+The standalone file of the game. [Here](./2d_endless_runner_standalone)
