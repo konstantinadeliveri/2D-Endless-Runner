@@ -1,12 +1,33 @@
 # 2D Endless Runner Videogame.
-#### [Deliveri Konstantina](https://github.com/konstantinadeliveri) P2015020<br>[Grivas Athanasios](https://github.com/p17griv1) P2017093
+### Contributors: [Grivas Athanasios](https://github.com/p17griv1)<br>[Deliveri Konstantina](https://github.com/konstantinadeliveri)
 
 ## Description
-This github repository contains the commented files of a 2D Endless Runner videogame created during the winter's semester for the course of "Entertainment Software Technologies And Virtual Worlds" of [Ionian University](https://ionio.gr/)
+A 2.5D Endless Runner Videogame written in **C#** and created with [**Unity**](https://unity.com/).<br> The story takes place in space where an astronaut's spaceship was crushed and he now runs on an endless path in an alien planet. The player has to collect as many alien rocks as possible and run as much as they can while dodging and jumping from several obstacles and using portals to get to different parts of the game. The game keeps the best score and the goal is to beat that. You may also use the alien rocks to buy character's abilities from the game store.
 
-### Game Scripts 
-The scripts of our game already commented.
-[Here](https://github.com/konstantinadeliveri/2D-Endless-Runner/tree/main/Scripts)
+#### First steps of creating the Videogame
+* _Understanding Unity and creating basics of the game_
+![][./img/Picture.png] <br>
+* _Adding some obstacles and objects to check if it works_
+! [][./img/Picture1.png] <br>
+* _Creating prefabs for the several stages of the game with portals_
+![][./img/Picture2.png]
+![][./img/Picture3.png] <br>
+* _Menus, game store and a simple tutorial_
+![][./img/Picture4.png]
+![][./img/Picture8.png]
+![][./img/Picture9.png]
+![][./img/Picture10.png]<br>
+<br>
+* **Complete**
+![][./img/Picture5.png]
+![][./img/Picture6.png]
+![][./img/Picture7.png]
+<br>
+![][./img/Picture11.gif]
+
+
+### Game Scripts
+Commented scripts of the game. [Here](./2D_endless_runner_files/Assets/Scripts)
 
 ### Game Executable
-Download and check our game [here](https://drive.google.com/drive/folders/1ctAvw2wMwRMTc9pCg-D_P9aggZmPLEmp?usp=sharing).
+The standalone file of the game. [Here](./2D_endless_runner_files/2d_endless_runner_standalone)
