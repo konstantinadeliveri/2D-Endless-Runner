@@ -18,7 +18,7 @@ A 2.5D Endless Runner Videogame written in **C#** and created with [**Unity**](h
 ![6][/img/Picture9.png]
 ![7][/img/Picture10.png]<br>
 <br>
-* **Complete**<br>
+- **Complete**<br>
 ![8][/img/Picture5.png]
 ![9][/img/Picture6.png]
 ![10][/img/Picture7.png]
