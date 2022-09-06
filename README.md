@@ -6,9 +6,9 @@ A 2.5D Endless Runner Videogame written in **C#** and created with [**Unity**](h
 
 #### First steps of creating the Videogame
 * _Understanding Unity and creating basics of the game_
-![][/img/Picture.png] <br>
+![][Picture.png] <br>
 * _Adding some obstacles and objects to check if it works_
-![][./img/Picture1.png] <br>
+![][Picture1.png] <br>
 * _Creating prefabs for the several stages of the game with portals_
 ![][./img/Picture2.png]
 ![][./img/Picture3.png] <br>
