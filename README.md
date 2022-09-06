@@ -5,20 +5,20 @@
 A 2.5D Endless Runner Videogame written in **C#** and created with [**Unity**](https://unity.com/).<br> The story takes place in space where an astronaut's spaceship was crushed and he now runs on an endless path in an alien planet. The player has to collect as many alien rocks as possible and run as much as they can while dodging and jumping from several obstacles and using portals to get to different parts of the game. The game keeps the best score and the goal is to beat that. You may also use the alien rocks to buy character's abilities from the game store.
 
 #### First steps of creating the Videogame
-* _Understanding Unity and creating basics of the game_
+* _Understanding Unity and creating basics of the game_<br>
 ![][Picture.png] <br>
-* _Adding some obstacles and objects to check if it works_
+* _Adding some obstacles and objects to check if it works_<br>
 ![][Picture1.png] <br>
-* _Creating prefabs for the several stages of the game with portals_
+* _Creating prefabs for the several stages of the game with portals_<br>
 ![][./img/Picture2.png]
 ![][./img/Picture3.png] <br>
-* _Menus, game store and a simple tutorial_
+* _Menus, game store and a simple tutorial_<br>
 ![][./img/Picture4.png]
 ![][./img/Picture8.png]
 ![][./img/Picture9.png]
 ![][./img/Picture10.png]<br>
 <br>
-* **Complete**
+* **Complete**<br>
 ![][./img/Picture5.png]
 ![][./img/Picture6.png]
 ![][./img/Picture7.png]
