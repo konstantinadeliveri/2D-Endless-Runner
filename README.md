@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # 2D Endless Runner Videogame.
 ### Contributors:<br> [Grivas Athanasios](https://github.com/p17griv1)<br>[Deliveri Konstantina](https://github.com/konstantinadeliveri)
 
