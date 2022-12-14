@@ -1,7 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/konstantinadeliveri/2D-Endless-Runner/blob/main/LICENCE)
-<a href="https://github.com/konstantinadeliveri/2D-Endless-Runner/blob/main/LICENCE">
-    <img src="https://gitlicense.com/badge/konstantinadeliveri/2D-Endless-Runner" alt="GitLicense">
-</a>	
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/konstantinadeliveri/2D-Endless-Runner/blob/main/LICENCE)	
 
 # 2D Endless Runner Videogame.
 ### Contributors:<br> [Grivas Athanasios](https://github.com/p17griv1)<br>[Deliveri Konstantina](https://github.com/konstantinadeliveri)
